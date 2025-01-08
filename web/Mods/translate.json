@@ -1,0 +1,412 @@
+{
+    "sentences": [
+        {
+            "russian": "кот спит на коврике",
+            "english": "the cat sleeps on the mat"
+        },
+        {
+            "russian": "я люблю читать книги",
+            "english": "i love to read books"
+        },
+        {
+            "russian": "сегодня хорошая погода",
+            "english": "the weather is good today"
+        },
+        {
+            "russian": "Привет",
+            "english": "Hi"
+        },
+        {
+            "russian": "Как дела?",
+            "english": "How are you?"
+        },
+        {
+            "russian": "Меня зовут ...",
+            "english": "My name is ..."
+        },
+        {
+            "russian": "Приятно познакомиться",
+            "english": "Nice to meet you"
+        },
+        {
+            "russian": "Спасибо",
+            "english": "Thank you"
+        },
+        {
+            "russian": "Пожалуйста",
+            "english": "You're welcome"
+        },
+        {
+            "russian": "Да",
+            "english": "Yes"
+        },
+        {
+            "russian": "Нет",
+            "english": "No"
+        },
+        {
+            "russian": "Извините",
+            "english": "Excuse me"
+        },
+        {
+            "russian": "Не понимаю",
+            "english": "I don't understand"
+        },
+        {
+            "russian": "Говорите ли вы по-английски?",
+            "english": "Do you speak English?"
+        },
+        {
+            "russian": "Я немного говорю по-английски",
+            "english": "I speak a little English"
+        },
+        {
+            "russian": "Как это сказать по-английски?",
+            "english": "How do you say this in English?"
+        },
+        {
+            "russian": "Сколько это стоит?",
+            "english": "How much is this?"
+        },
+        {
+            "russian": "Где туалет?",
+            "english": "Where is the restroom?"
+        },
+        {
+            "russian": "Помогите!",
+            "english": "Help!"
+        },
+        {
+            "russian": "С новым годом!",
+            "english": "Happy New Year!"
+        },
+        {
+            "russian": "С днем рождения!",
+            "english": "Happy birthday!"
+        },
+        {
+            "russian": "Спокойной ночи",
+            "english": "Good night"
+        },
+        {
+            "russian": "Доброе утро",
+            "english": "Good morning"
+        },
+        {
+            "russian": "Добрый день",
+            "english": "Good afternoon"
+        },
+        {
+            "russian": "До свидания",
+            "english": "Goodbye"
+        },
+        {
+            "russian": "Увидимся позже",
+            "english": "See you later"
+        },
+        {
+            "russian": "Мне нравится этот город",
+            "english": "I like this city"
+        },
+        {
+            "russian": "Я из России",
+            "english": "I'm from Russia"
+        },
+        {
+            "russian": "Я студент",
+            "english": "I'm a student"
+        },
+        {
+            "russian": "Я работаю учителем",
+            "english": "I work as a teacher"
+        },
+        {
+            "russian": "Я люблю путешествовать",
+            "english": "I like to travel"
+        },
+        {
+            "russian": "Я ищу отель",
+            "english": "I'm looking for a hotel"
+        },
+        {
+            "russian": "У меня есть бронь",
+            "english": "I have a reservation"
+        },
+        {
+            "russian": "Дайте мне счет, пожалуйста",
+            "english": "Check, please"
+        },
+        {
+            "russian": "Вкусно!",
+            "english": "Delicious!"
+        },
+        {
+            "russian": "Мне нужна помощь",
+            "english": "I need help"
+        },
+        {
+            "russian": "Где находится ближайшая автобусная остановка?",
+            "english": "Where is the nearest bus stop?"
+        },
+        {
+            "russian": "Сегодня хорошая погода",
+            "english": "The weather is nice today"
+        },
+        {
+            "russian": "Идет дождь",
+            "english": "It's raining"
+        },
+        {
+            "russian": "Я хочу купить сувениры",
+            "english": "I want to buy souvenirs"
+        },
+        {
+            "russian": "Я люблю русскую кухню",
+            "english": "I love Russian cuisine"
+        },
+        {
+            "russian": "У меня аллергия на ...",
+            "english": "I'm allergic to ..."
+        },
+        {
+            "russian": "Мне нужна аптека",
+            "english": "I need a pharmacy"
+        },
+        {
+            "russian": "кот спит на коврике",
+            "english": "the cat sleeps on the mat"
+        },
+        {
+            "russian": "девушка читает книгу в парке",
+            "english": "the girl is reading a book in the park"
+        },
+        {
+            "russian": "мальчик едет на велосипеде по улице",
+            "english": "the boy is riding a bike down the street"
+        },
+        {
+            "russian": "солнце светит ярко сегодня",
+            "english": "the sun is shining brightly today"
+        },
+        {
+            "russian": "птицы поют красивые песни",
+            "english": "the birds are singing beautiful songs"
+        },
+        {
+            "russian": "я люблю гулять в лесу",
+            "english": "i like to walk in the forest"
+        },
+        {
+            "russian": "мы смотрим интересный фильм",
+            "english": "we are watching an interesting movie"
+        },
+        {
+            "russian": "она готовит вкусный ужин",
+            "english": "she is cooking a delicious dinner"
+        },
+        {
+            "russian": "они играют в футбол во дворе",
+            "english": "they are playing football in the yard"
+        },
+        {
+            "russian": "я учу английский язык каждый день",
+            "english": "i study english every day"
+        },
+        {
+            "russian": "она работает в офисе",
+            "english": "she works in an office"
+        },
+        {
+            "russian": "он учится в университете",
+            "english": "he studies at the university"
+        },
+        {
+            "russian": "мы живём в большом городе",
+            "english": "we live in a big city"
+        },
+        {
+            "russian": "я люблю слушать музыку",
+            "english": "i love listening to music"
+        },
+        {
+            "russian": "они путешествуют по миру",
+            "english": "they travel around the world"
+        },
+        {
+            "russian": "она занимается спортом каждый день",
+            "english": "she does sports every day"
+        },
+        {
+            "russian": "он играет на гитаре",
+            "english": "he plays the guitar"
+        },
+        {
+            "russian": "мы любим ходить в кино",
+            "english": "we like going to the cinema"
+        },
+        {
+            "russian": "я читаю новости в интернете",
+            "english": "i read the news on the internet"
+        },
+        {
+            "russian": "она пишет книгу",
+            "english": "she is writing a book"
+        },
+        {
+            "russian": "он рисует картину",
+            "english": "he is painting a picture"
+        },
+        {
+            "russian": "мы готовимся к экзаменам",
+            "english": "we are preparing for exams"
+        },
+        {
+            "russian": "я иду домой",
+            "english": "i am going home"
+        },
+        {
+            "russian": "она едет на работу",
+            "english": "she is going to work"
+        },
+        {
+            "russian": "он летит в москву",
+            "english": "he is flying to moscow"
+        },
+        {
+            "russian": "мы плывём на лодке",
+            "english": "we are sailing on a boat"
+        },
+        {
+            "russian": "я бегу в парке",
+            "english": "i am running in the park"
+        },
+        {
+            "russian": "она прыгает на скакалке",
+            "english": "she is jumping rope"
+        },
+        {
+            "russian": "он играет в баскетбол",
+            "english": "he is playing basketball"
+        },
+        {
+            "russian": "мы смотрим телевизор",
+            "english": "we are watching tv"
+        },
+        {
+            "russian": "я слушаю радио",
+            "english": "i am listening to the radio"
+        },
+        {
+            "russian": "она говорит по телефону",
+            "english": "she is talking on the phone"
+        },
+        {
+            "russian": "он пишет письмо",
+            "english": "he is writing a letter"
+        },
+        {
+            "russian": "мы читаем книгу вместе",
+            "english": "we are reading a book together"
+        },
+        {
+            "russian": "я пью кофе с молоком",
+            "english": "i drink coffee with milk"
+        },
+        {
+            "russian": "она ест мороженое",
+            "english": "she is eating ice cream"
+        },
+        {
+            "russian": "он спит в своей кровати",
+            "english": "he is sleeping in his bed"
+        },
+        {
+            "russian": "мы гуляем в парке",
+            "english": "we are walking in the park"
+        },
+        {
+            "russian": "я смотрю на небо",
+            "english": "i am looking at the sky"
+        },
+        {
+            "russian": "она слушает пение птиц",
+            "english": "she is listening to the birds singing"
+        },
+        {
+            "russian": "он чувствует запах цветов",
+            "english": "he smells the flowers"
+        },
+        {
+            "russian": "мы видим красивые пейзажи",
+            "english": "we see beautiful landscapes"
+        },
+        {
+            "russian": "я люблю проводить время с друзьями",
+            "english": "i love spending time with friends"
+        },
+        {
+            "russian": "она мечтает о путешествиях",
+            "english": "she dreams of traveling"
+        },
+        {
+            "russian": "он работает над новым проектом",
+            "english": "he is working on a new project"
+        },
+        {
+            "russian": "мы учимся новому каждый день",
+            "english": "we learn something new every day"
+        },
+        {
+            "russian": "я верю в свои силы",
+            "english": "i believe in myself"
+        },
+        {
+            "russian": "она помогает другим людям",
+            "english": "she helps other people"
+        },
+        {
+            "russian": "он стремится к успеху",
+            "english": "he strives for success"
+        },
+        {
+            "russian": "мы ценим дружбу",
+            "english": "we value friendship"
+        },
+        {
+            "russian": "я люблю свою семью",
+            "english": "i love my family"
+        },
+        {
+            "russian": "она заботится о своих близких",
+            "english": "she takes care of her loved ones"
+        },
+        {
+            "russian": "он гордится своими достижениями",
+            "english": "he is proud of his achievements"
+        },
+        {
+            "russian": "мы рады видеть вас",
+            "english": "we are glad to see you"
+        },
+        {
+            "russian": "я хочу пожелать вам всего наилучшего",
+            "english": "i want to wish you all the best"
+        },
+        {
+            "russian": "она счастлива быть здесь",
+            "english": "she is happy to be here"
+        },
+        {
+            "russian": "он благодарен за всё",
+            "english": "he is grateful for everything"
+        },
+        {
+            "russian": "мы верим в светлое будущее",
+            "english": "we believe in a bright future"
+        },
+        {
+            "russian": "я люблю жизнь",
+            "english": "i love life"
+        }
+    ]
+}
